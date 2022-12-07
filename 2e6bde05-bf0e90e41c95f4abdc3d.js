@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkquarkus_extensions=self.webpackChunkquarkus_extensions||[]).push([[423],{5361:function(e,n,s){s.d(n,{pL1:function(){return u}});var u={prefix:"far",iconName:"square",icon:[448,512,[9632,9723,9724,61590],"f0c8","M384 32C419.3 32 448 60.65 448 96V416C448 451.3 419.3 480 384 480H64C28.65 480 0 451.3 0 416V96C0 60.65 28.65 32 64 32H384zM384 80H64C55.16 80 48 87.16 48 96V416C48 424.8 55.16 432 64 432H384C392.8 432 400 424.8 400 416V96C400 87.16 392.8 80 384 80z"]}}}]);
+//# sourceMappingURL=2e6bde05-bf0e90e41c95f4abdc3d.js.map
